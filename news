@@ -1,0 +1,6 @@
+[UPDATE] v5.1.9 — Eleven Ball Team
+- Login pindah sumber ke GitHub (ElevenBallTeam/id) untuk username & password.
+- Command baru: addpanel, listpanel, testpanel, STOPP (kontrol endpoint panel).
+- Peningkatan monitor: tabel proses lebih rapi & real-time refresh via command.
+- Perbaikan: fetch error handling, penyimpanan history.txt (WIB) lebih stabil.
+- Tips: jika raw GitHub belum ter-update, tambah ?ts=1 di akhir URL untuk bypass cache.
